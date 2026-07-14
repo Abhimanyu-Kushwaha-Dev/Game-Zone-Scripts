@@ -1,3 +1,4 @@
+# Pascal's triangle is a triangular array of numbers where the outer edges are 1s, and each inner number is the sum of the two numbers directly above it.
 print("\n======= PASCAL'S TRIANGLE =======\n")
 n = int(input("Enter the number of rows: "))
 for i in range(n):
